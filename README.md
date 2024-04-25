@@ -26,7 +26,7 @@ Las acciones del agente se representan mediante un conjunto de vectores de acci�
 ## Contenido del Repositorio
 
 ### Requisitos
-El archivo `requirements.txt` contiene las dependencias del proyecto:
+El archivo `requirements.txt` contiene las dependencias del proyecto.
 
 ### Código Fuente
 El archivo `main.py` contiene el código fuente del proyecto, que incluye la inicialización del entorno de VizDoom, la definición de acciones para el agente, y el bucle principal de entrenamiento.
